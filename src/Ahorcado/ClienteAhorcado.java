@@ -11,7 +11,7 @@ import java.net.Socket;
 import java.util.StringTokenizer;
 
 public class ClienteAhorcado {
-
+//2017
     //DECLARACIONES
     private static final int INACTIVO = 0;
     private static final int JUGANDO = 1;
